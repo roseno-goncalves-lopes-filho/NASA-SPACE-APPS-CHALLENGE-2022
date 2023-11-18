@@ -1,4 +1,4 @@
-## NASA-SPACE-APPS-CHALLENGE-2022
+## NASA SPACE APPS CHALLENGE 2022
 ### “Sun Tracker: an artificial intelligence algorithm that predicts Carrington-like events”
 
 
